@@ -5,11 +5,11 @@ My name is Danijela Vrzan, an iOS Developer from Petrinja, Croatia 🇭🇷, cur
 
 ## ⭐ Project Showcase
 
-### Nunch  
+### Nunch
 [![Website](https://img.shields.io/badge/Visit-nunch.app-blue?style=flat-square)](https://nunch.app)  
-Simplest, most delightful calorie & macro tracker for iOS. Built with Swift 6.0, SwiftUI & SwiftData, with offline & iCloud sync.  
+The, simplest, most delightful calorie & macro tracker app. Built with Swift 6.0, SwiftUI & SwiftData, with offline & iCloud sync.  
 - **App Store:** [Nunch – Macro Tracker](https://apps.apple.com/us/app/nunch-macro-tracker/id6670322395)
-- **Launched:** June 3, 2025. Subscription based with a 7‑day free trial.
+- **Launched:** June 3, 2025. Subscription based with a 10‑day free trial (no credit card needed).
 
 ---
 
