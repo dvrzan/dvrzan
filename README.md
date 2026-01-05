@@ -1,5 +1,9 @@
 ### Hello World! 👋  
-My name is Danijela Vrzan, an iOS Developer from Petrinja, Croatia 🇭🇷, currently living in Toronto, Canada 🇨🇦. I have a keen eye for design and try to deliver pixel‑perfect user interfaces.
+My name is Danijela Vrzan, I'm an iOS Developer, conference speaker, and content creator from Croatia, currently living in Toronto, Canada.
+
+I switched my civil engineering career and never looked back. Today, I write and speak about all things Swift, app development, career growth, and the human side of software.
+
+I'm working on my macro & calorie tracking app - Nunch.
 
 ---
 
@@ -7,9 +11,9 @@ My name is Danijela Vrzan, an iOS Developer from Petrinja, Croatia 🇭🇷, cur
 
 ### Nunch
 [![Website](https://img.shields.io/badge/Visit-nunch.app-blue?style=flat-square)](https://nunch.app)  
-The, simplest, most delightful calorie & macro tracker app. Built with Swift 6.0, SwiftUI & SwiftData, with offline & iCloud sync.  
+The simplest, most delightful calorie & macro tracker app. Built with Swift 6.0, SwiftUI & SwiftData, with iCloud sync.  
 - **App Store:** [Nunch – Macro Tracker](https://apps.apple.com/us/app/nunch-macro-tracker/id6670322395)
-- **Launched:** June 3, 2025. Subscription based with a 10‑day free trial (no credit card needed).
+- **Launched:** June 3, 2025. Subscription based with a 7‑day free trial (no credit card needed).
 
 ---
 
